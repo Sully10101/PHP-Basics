@@ -1,3 +1,9 @@
 <?php
 
-    echo 'ma nem jeff';
+    echo 'Home Page';
+
+?>
+
+<!DOCTYPE>
+
+    <a href="data-types.php">Data Types</a>
