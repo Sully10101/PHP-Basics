@@ -1,5 +1,11 @@
 <?php
 
+echo 'Data Types' ."<br/>";
+
+echo "<a href='index.php'>Home</a>" . "<br/>";
+echo "<a href='variables-and-constants.php'>Variables & Constants</a>" . "<br/>";
+echo "<a href='conditional-statements.php'>Conditional Statements</a>" . "<br/>". "<br/>";
+
 //3 Main data types
 
 //Scalar
