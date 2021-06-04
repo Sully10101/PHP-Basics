@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2c74e46b-e100-4ea6-9acd-8f845716e993" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditional-statements.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditional-statements.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +46,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Docker.docker-compose.yml.www: Compose Deployment">
+  <component name="RunManager" selected="PHP Script.data-types.php">
+    <configuration name="data-types.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/data-types.php">
+      <method v="2" />
+    </configuration>
     <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
       <deployment type="dockerfile">
         <settings>
@@ -63,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.data-types.php" />
         <item itemvalue="Docker.docker-compose.yml.www: Compose Deployment" />
         <item itemvalue="Docker.Dockerfile" />
       </list>
@@ -77,24 +99,56 @@
       <option name="presentableId" value="Default" />
       <updated>1621987350310</updated>
       <workItem from="1621987351411" duration="949000" />
-      <workItem from="1621988939289" duration="1633000" />
+      <workItem from="1621988939289" duration="2782000" />
+      <workItem from="1622073540245" duration="1313000" />
+      <workItem from="1622498641101" duration="6652000" />
+      <workItem from="1622590030706" duration="4740000" />
+      <workItem from="1622761495259" duration="4455000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="266" y="378" key="#Inspections" timestamp="1622499799014">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="266" y="378" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1622499799014" />
+    <state x="347" y="346" key="#PHP" timestamp="1622592716575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="347" y="346" key="#PHP/0.0.2560.1400@0.0.2560.1400" timestamp="1622592716575" />
     <state x="1237" y="656" key="FileChooserDialogImpl" timestamp="1621989012886">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1237" y="656" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1621989012886" />
-    <state x="958" y="560" key="SettingsEditor" timestamp="1621989014335">
+    <state x="182" y="431" key="SettingsEditor" timestamp="1622762980324">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="958" y="560" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1621989014335" />
+    <state x="182" y="431" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1622762980324" />
+    <state x="457" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622499805779">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="457" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1622499805779" />
+    <state x="303" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1622499369442">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1622499369442" />
   </component>
 </project>
