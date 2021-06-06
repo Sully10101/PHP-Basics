@@ -42,5 +42,27 @@ else {
     echo 'Odd day today';
 ;}
 
-echo "<br><br><br>" . 'Switch Statements';
+echo "<br><br><br>" . 'Switch Statements' . "<br>";
+echo "Below will show the lowest divider of today's date if it's 5 or less else echo something." . "<br>";
 
+switch ($just_date) {
+    case $just_date%2 == 0;
+        echo "2";
+        break;
+
+    case $just_date%3 == 0;
+        echo "3";
+        break;
+
+    case $just_date%4 == 0;
+        echo "4";
+        break;
+
+    case $just_date%5 == 0;
+        echo "5";
+        break;
+
+    default:
+        echo "Date does not divide by 2,3,4 or 5";
+        break;
+}
